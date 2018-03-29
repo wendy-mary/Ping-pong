@@ -1,0 +1,13 @@
+#header {
+  background-color: #CCEEFF;
+  text-align: center;
+}
+.col-md-4{
+  background-color:#CA6F1E;
+  height:90vh;
+  width: 25%;
+  margin-left:-57px;
+}
+body{
+  background-color: #A6ACAF;
+}
