@@ -28,7 +28,7 @@ ping: if a number is divisible by 3
 pong:if a number is divisible by 5
 pingpong:if a number is divisible by both 3 and 5
 
-An example is as shown below
+An example is as shown  in screenshot /Screenshot from 2018-03-30 11-33-16.png
 
 ## Support and contact details
 If there is any issue contact me on my email marywendychange@yahoo.com  
