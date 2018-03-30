@@ -28,8 +28,12 @@ The input type that is allowed are the integers.
 *pong:if a number is divisible by 5
 *pingpong:if a number is divisible by both 3 and 5
 
+<<<<<<< HEAD
 *An example is as shown :
 In the  folder screenshot ,Screenshot from 2018-03-30 11-33-16.png
+=======
+An example is as shown  in screenshot /Screenshot from 2018-03-30 11-33-16.png
+>>>>>>> 46c0903d22974fe400dd07059ee612ed9345049c
 
 ## Support and contact details
 If there is any issue contact me on my email marywendychange@yahoo.com  
