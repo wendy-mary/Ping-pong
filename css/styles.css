@@ -1,6 +1,7 @@
 #header {
   background-color: #CCEEFF;
   text-align: center;
+  height: 300px;
 }
 .col-md-4{
   background-color:#CA6F1E;
@@ -10,4 +11,7 @@
 }
 body{
   background-color: #A6ACAF;
+}
+h4{
+  color: white;
 }
